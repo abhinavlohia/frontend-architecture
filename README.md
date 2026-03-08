@@ -26,7 +26,7 @@ Our core technologies are chosen for speed, type-safety, and enterprise-level re
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd nc-frontend
+   cd frontend-architecture
    ```
 
 2. **Install all dependencies:**
